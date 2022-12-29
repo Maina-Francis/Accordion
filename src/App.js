@@ -5,7 +5,7 @@ import SingleQuestion from "./Question";
 function App() {
   const [questions, setQuestions] = useState(data);
 
-  console.log(questions);
+  // console.log(questions);
 
   return (
     <main className="container">
